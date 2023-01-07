@@ -1,0 +1,2 @@
+# book
+Documentation for `flux`
